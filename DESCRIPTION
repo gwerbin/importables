@@ -1,5 +1,5 @@
-Package: importables
-Title: "Importable" mdules for R
+Package: importify
+Title: Make any R script or package "importable"
 Version: 0.9.5
 Author: Konrad Rudolph <konrad.rudolph@gmail.com>
 Maintainer: Konrad Rudolph <konrad.rudolph@gmail.com>
