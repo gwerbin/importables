@@ -1,5 +1,5 @@
-Package: modules
-Title: Modules for R
+Package: importables
+Title: "Importable" mdules for R
 Version: 0.9.5
 Author: Konrad Rudolph <konrad.rudolph@gmail.com>
 Maintainer: Konrad Rudolph <konrad.rudolph@gmail.com>
