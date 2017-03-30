@@ -24,6 +24,8 @@ Table of contents
 Summary
 -------
 
+NOTE: This is a fork of https://github.com/klmr/modules, with the package name changed to avoid a conflict with another similar package, https://github.com/wahani/modules. The latter is already available on CRAN, so changing its name would be much more complicated.
+
 This package provides an alternative mechanism of organising reusable code into
 units, called “modules”. Its usage and organisation is reminiscent of Python’s.
 It is designed so that normal R source files are automatically modules, and need
@@ -92,7 +94,7 @@ To install using [*devtools*](https://github.com/hadley/devtools), just type the
 following command in R:
 
 ```r
-devtools::install_github('klmr/modules')
+devtools::install_github('gwerbin/importables')
 ```
 
 [Wiki: Installation][wiki:install] has more information.
